@@ -1,7 +1,7 @@
 # DSLab
 # Ex-1: hello program  
 
-#include <studio.h>
+#include <stdio.h>
 void main()
 {
 
